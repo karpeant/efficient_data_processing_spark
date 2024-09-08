@@ -1,4 +1,4 @@
-FROM deltaio/delta-docker:latest
+FROM deltaio/delta-docker:latest_arm64
 # latest is at 1.0.0_3.0.0, 
 
 USER root
